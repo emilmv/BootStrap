@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.feature-tabmenu-title img{
+    width: 300px;
+    height: 300px;
+}
+.portfolio-tabmenu-titles{
+    display: flex;
+    gap: 10px;
+}
+.portfolio-image img{
+    width: 200px;
+    height: 200px;
+}
+.card-image img{
+    width: 100px;
+    height: 100px;
+}
+.testimonials-cards{
+    display: flex;
+    gap: 10px;
+}
+.team-cards{
+    display: flex;
+    gap: 10px;
+}
+.card-socials ul{
+    display: flex;
+    gap: 10px;
+    padding-left: 55px;
+}
+.team-card-image img{
+    width: 200px;
+    height: 200px;
+}
+.clients-table-first-row{
+    display: flex;
+    gap: 10px;
+}
+.clients-table-first-row img{
+    width: 150px;
+    height: 150px;
+}
+.clients-table-second-row{
+    display: flex;
+    gap: 10px;
+}
+.clients-table-second-row img{
+    width: 150px;
+    height: 150px;
+}
+.pricing-cards{
+    padding-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+.location-info h4{
+    display: inline-block;
+}
+.location-map{
+    padding-top: 10px;
+}
+.footer-info-contact{
+    padding-top: 5px;
+}
+.footer-info-social-icons ul{
+    display: flex;
+    gap: 10px;
+}
+footer{
+    display: flex;
+    gap: 50px;
+}
